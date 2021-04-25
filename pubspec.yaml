@@ -1,6 +1,6 @@
 name: dartplus
 description: Simple & Lightweight Error Handling Solution | Influenced by  Either in Functional Programming Languages
-version: 0.0.1
+version: 0.0.2
 repository: https://github.com/topperspal/dartplus.git
 
 environment:
