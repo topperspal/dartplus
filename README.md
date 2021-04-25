@@ -1,6 +1,8 @@
 <h1>dartplus</h1>
-> `dartplus` is a library that tries to provide some advance features that are missing in current dart lang. Here the are - 
-- Either
+
+`dartplus` is a library that tries to provide some advance features that are missing in current dart lang. Here the are -
+
+- <h1>Either</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/topperspal/either/main/logo/either.png?sanitize=true" width="400px">
