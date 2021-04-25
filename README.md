@@ -5,7 +5,7 @@
 - <h1>Either</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/topperspal/either/main/logo/either.png?sanitize=true" width="400px">
+  <img src="https://raw.githubusercontent.com/topperspal/either/main/logo/either_logo.png?sanitize=true" width="400px">
 </p>
 <h2 align="center">Either Left or Right</h2>
 <h3 align="center">Simple & Lightweight Error Handling Solution</h3>
